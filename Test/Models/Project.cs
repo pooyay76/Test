@@ -7,15 +7,15 @@
         public string Description { get; set; }
         public string Client { get; set; }
 
-        public string Image { get; set; }
+        public string Thumbnail { get; set; }
 
-        public Project(long id, string title, string description, string client, string image)
+        public Project(long id, string title, string description, string client, string thumbnail)
         {
             Id = id;
             Title = title;
             Description = description;
             Client = client;
-            Image = image;
+            Thumbnail = thumbnail;
         }
     }
 }

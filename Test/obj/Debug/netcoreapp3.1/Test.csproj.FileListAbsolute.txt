@@ -109,3 +109,6 @@ C:\Users\v\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompil
 C:\Users\v\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\v\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\v\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+C:\Users\v\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Articles\_Articles.cshtml.g.cs
+C:\Users\v\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\v\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
